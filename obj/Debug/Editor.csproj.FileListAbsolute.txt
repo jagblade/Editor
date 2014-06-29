@@ -1,0 +1,27 @@
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\bin\Debug\Editor.exe.config
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\bin\Debug\Editor.exe
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\bin\Debug\Editor.pdb
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\obj\Debug\Editor.EditorForm.resources
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\obj\Debug\Editor.Properties.Resources.resources
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\obj\Debug\Editor.exe
+c:\users\stilgar\documents\visual studio 2012\Projects\hw20\Editor\obj\Debug\Editor.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\bin\Debug\Editor.exe.config
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\obj\Debug\Editor.exe
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\obj\Debug\Editor.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\bin\Debug\Editor.exe
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\bin\Debug\Editor.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\obj\Debug\Editor.EditorForm.resources
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson20\hw20\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+E:\C# stuff\Lecture 20\hw20\bin\Debug\Editor.exe.config
+E:\C# stuff\Lecture 20\hw20\obj\Debug\Editor.exe
+E:\C# stuff\Lecture 20\hw20\obj\Debug\Editor.pdb
+E:\C# stuff\Lecture 20\hw20\bin\Debug\Editor.exe
+E:\C# stuff\Lecture 20\hw20\bin\Debug\Editor.pdb
+E:\C# stuff\Lecture 20\hw20\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+E:\C# stuff\Lecture 20\hw20\obj\Debug\Editor.EditorForm.resources
+E:\C# stuff\Lecture 20\hw20\obj\Debug\Editor.Properties.Resources.resources
+E:\C# stuff\Lecture 20\hw20\obj\Debug\Editor.csproj.GenerateResource.Cache
